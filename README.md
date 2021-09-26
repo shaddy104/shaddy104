@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaddy104
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Program Management
+- 🌱 I’m currently learning Product/Program Management
 - 💞️ I’m looking to collaborate on new learning
 - 📫 How to reach me shaddy104@gmail.com
 
